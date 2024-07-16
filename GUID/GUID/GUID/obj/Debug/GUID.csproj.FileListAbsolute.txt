@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\bin\Debug\GUID.exe.config
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\bin\Debug\GUID.exe
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\bin\Debug\GUID.pdb
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\obj\Debug\GUID.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\obj\Debug\GUID.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\obj\Debug\GUID.exe
+C:\Users\munzer\Documents\DateProblmes\GUID\GUID\GUID\obj\Debug\GUID.pdb

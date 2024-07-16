@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\bin\Debug\Attribute.exe
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\bin\Debug\Attribute.pdb
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\obj\Debug\Attribute.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\obj\Debug\Attribute.exe
+C:\Users\munzer\Documents\DateProblmes\Attribute\Attribute\Attribute\obj\Debug\Attribute.pdb

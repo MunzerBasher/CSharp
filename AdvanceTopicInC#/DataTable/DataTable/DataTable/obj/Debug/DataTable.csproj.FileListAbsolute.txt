@@ -1,0 +1,14 @@
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\bin\Debug\DataTable.exe.config
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\bin\Debug\DataTable.exe
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\bin\Debug\DataTable.pdb
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\obj\Debug\DataTable.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\obj\Debug\DataTable.exe
+C:\Users\munzer\Documents\C_Shape_Database\DataTable\DataTable\DataTable\obj\Debug\DataTable.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\bin\Debug\DataTable.exe.config
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\bin\Debug\DataTable.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\bin\Debug\DataTable.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\obj\Debug\DataTable.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\obj\Debug\DataTable.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\DataTable\DataTable\DataTable\obj\Debug\DataTable.pdb

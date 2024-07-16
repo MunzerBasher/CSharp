@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\bin\Debug\Assemblies.exe.config
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\bin\Debug\Assemblies.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\bin\Debug\Assemblies.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\obj\Debug\Assemblies.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\obj\Debug\Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\obj\Debug\Assemblies.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\obj\Debug\Assemblies.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\bin\Debug\DemoLib.dll
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\bin\Debug\DemoLib.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\Assemblies\obj\Debug\Assemblies.csproj.CopyComplete

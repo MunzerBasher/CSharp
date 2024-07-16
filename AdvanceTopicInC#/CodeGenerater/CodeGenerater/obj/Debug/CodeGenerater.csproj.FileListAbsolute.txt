@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\bin\Debug\CodeGenerater.exe.config
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\bin\Debug\CodeGenerater.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\bin\Debug\CodeGenerater.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\obj\Debug\CodeGenerater.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\obj\Debug\CodeGenerater.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\obj\Debug\CodeGenerater.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\CodeGenerater\CodeGenerater\obj\Debug\CodeGenerater.pdb

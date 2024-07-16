@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\bin\Debug\reFlection.cs.exe.config
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\bin\Debug\reFlection.cs.exe
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\bin\Debug\reFlection.cs.pdb
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\obj\Debug\reFlection.cs.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\obj\Debug\reFlection.cs.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\obj\Debug\reFlection.cs.exe
+C:\Users\munzer\Documents\DateProblmes\reFlection\reFlection\.vs\reFlection.cs\obj\Debug\reFlection.cs.pdb

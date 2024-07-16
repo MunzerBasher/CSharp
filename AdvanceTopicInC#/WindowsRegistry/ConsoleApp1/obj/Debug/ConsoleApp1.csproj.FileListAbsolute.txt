@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\WindowsRegistry\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

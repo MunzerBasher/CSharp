@@ -1,0 +1,9 @@
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\munzer\Documents\CSharp\AdvanceTopicInC#\IntroductionToCustomControls\CustomControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

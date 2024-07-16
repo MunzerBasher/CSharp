@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\CSharp\Win32Apis\bin\Debug\Win32Apis.exe.config
+C:\Users\munzer\Documents\CSharp\Win32Apis\bin\Debug\Win32Apis.exe
+C:\Users\munzer\Documents\CSharp\Win32Apis\bin\Debug\Win32Apis.pdb
+C:\Users\munzer\Documents\CSharp\Win32Apis\obj\Debug\Win32Apis.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\CSharp\Win32Apis\obj\Debug\Win32Apis.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\CSharp\Win32Apis\obj\Debug\Win32Apis.exe
+C:\Users\munzer\Documents\CSharp\Win32Apis\obj\Debug\Win32Apis.pdb

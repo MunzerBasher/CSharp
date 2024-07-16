@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\bin\Debug\ConvertNumberToString.exe.config
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\bin\Debug\ConvertNumberToString.exe
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\bin\Debug\ConvertNumberToString.pdb
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\obj\Debug\ConvertNumberToString.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\obj\Debug\ConvertNumberToString.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\obj\Debug\ConvertNumberToString.exe
+C:\Users\munzer\Documents\DateProblmes\ConvertNumberToString\ConvertNumberToString\obj\Debug\ConvertNumberToString.pdb

@@ -1,0 +1,7 @@
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\obj\Debug\ConcurrencyAndparallelim.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\obj\Debug\ConcurrencyAndparallelim.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\bin\Debug\ConcurrencyAndparallelim.exe.config
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\bin\Debug\ConcurrencyAndparallelim.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\bin\Debug\ConcurrencyAndparallelim.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\obj\Debug\ConcurrencyAndparallelim.exe
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Asynchronous\ConcurrencyAndparallelim\ConcurrencyAndparallelim\obj\Debug\ConcurrencyAndparallelim.pdb

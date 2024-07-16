@@ -1,0 +1,6 @@
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\bin\Debug\DemoLib.dll
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\bin\Debug\DemoLib.pdb
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\obj\Debug\DemoLib.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\obj\Debug\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\obj\Debug\DemoLib.dll
+C:\Users\munzer\Documents\DateProblmes\AdvanceTopicInC#\Assemblies\DemoLib\obj\Debug\DemoLib.pdb
